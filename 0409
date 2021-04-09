@@ -1,0 +1,43 @@
+git remote add origin https://github.com/5A9G0038/20210409.git
+ git分支-M main 
+git push -u origin main
+<!doctype html> 
+<html>
+<head>
+<meta charset="utf-8">
+<title>潮玩香港(魏麴庭)</title>
+<style type="text/css">
+body {
+	background-image: url(images/about/background.gif);
+}
+</style>
+</head>
+
+<body>
+<h1 style="font-family: '微軟正黑體', '新細明體', Arial; font-size: 36px; text-align: center;">香港．說走就走</h1>
+<h2 style="font-family: '微軟正黑體', '新細明體', Arial; font-size: 16pt; color: #FB6500;">充滿國際魅力的都市 </h2>
+<p style="font-family: '微軟正黑體', '新細明體', Arial; font-size: 16pt; color: #FB6500;"><img src="images/about/about01.jpg" width="300" height="199" alt=""/></p>
+<p style="font-family: '微軟正黑體', '新細明體', Arial; font-size: 10pt;">在土地有限的情況下，想要創造空間的方法之一，就是建造摩天大樓，根據統計，香港有二百多棟超高大樓，而且造型新穎，樓與樓之間在帷幕牆之內相互輝映成趣。在尖沙嘴、中環一帶，隨時仰天長嘯，會有不斷的驚嘆！</p>
+<p style="font-family: '微軟正黑體', '新細明體', Arial; font-size: 10pt;"><img src="images/about/about02.jpg" width="300" height="200" alt=""/></p>
+<p style="font-size: 10pt; font-family: '微軟正黑體', '新細明體', Arial;">著名的大樓包括全世界第四高的環球貿易廣場、國際金融中心、匯豐銀行總行、和和中心、中銀大廈、中環中心、長江集團中心、怡和大廈、中環廣場等等，除了在街上觀賞時可以仰望所以特別感到壯觀，到了太平山欣賞夜景，也因此特別亮麗，因為有這許多大廈連成的天際線分外美好。</p>
+<p style="font-size: 10pt; font-family: '微軟正黑體', '新細明體', Arial;"><img src="images/about/about03.jpg" width="300" height="199" alt=""/></p>
+<hr size="1">
+<h2 style="font-size: 16pt; font-family: '微軟正黑體', '新細明體', Arial; color: #FB6500;">關於這個網站</h2>
+<p style="font-size: 12pt; font-family: '微軟正黑體', '新細明體', Arial; color: #23FF01;">關於旅行的計劃</p>
+<p style="font-size: 12pt; font-family: '微軟正黑體', '新細明體', Arial; color: #23FF01;"><img src="images/about/about04.jpg" width="300" height="199" alt=""/></p>
+<p style="font-size: 10pt">這個夏天，我們一行人前往香港進行的自助旅行，每天的行程只有大概的方向但是沒有詳細的規劃，有時是集體行動，但有時會各奔東西。在同樣的時空到達不同的地點，期待感受不同的體驗。 </p>
+<p style="font-family: '微軟正黑體', '新細明體', Arial; font-size: 12pt; color: #23FF01;">關於旅行的記錄</p>
+<p style="font-size: 10pt; font-family: '微軟正黑體', '新細明體', Arial;">在這個網站中將整理在這幾天中我們曾經去過的、玩過的、吃過的、感受過的點點滴滴，無論您去過或是沒去過香港都能在這些文字、照片中想起心中曾有的記憶，或是編織計劃下一個旅行。在這裡準備了以下的單元供您參考：</p>
+<ol>
+  <li><strong>景點特搜</strong>：在香港旅遊時經過的景點，透過文字與圖片進行簡短介紹。</li>
+  <li><strong>玩樂地圖</strong>：以地圖的方式標示相關的景點位置。</li>
+  <li><strong>文字旅行</strong>：記錄並分享旅行中的心情點滴。</li>
+  <li><strong>城市映像</strong>：分享旅行中的照片、影片等內容。</li>
+  <li><strong>相關資訊</strong>：提供在旅行前所準備的資訊。</li>
+  <li><span style="font-family: '微軟正黑體', '新細明體', Arial"><strong>互動交流</strong>：提供一個可以互動交流的平台。</span><br>
+  </li>
+</ol>
+<p style="font-size: 10pt; font-family: '微軟正黑體', '新細明體', Arial;">最後，感謝旅行中曾給我們幫助、加油甚至是微笑的人們。</p>
+<p style="font-size: 10pt; font-family: '微軟正黑體', '新細明體', Arial;">2021年3月12日 </p>
+</body>
+</html>
